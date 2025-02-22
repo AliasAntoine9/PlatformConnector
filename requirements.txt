@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+pydantic
+dynaconf
+boto3
+build
